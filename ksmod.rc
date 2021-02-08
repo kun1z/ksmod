@@ -1,0 +1,17 @@
+// Copyright © 2005 - 2021 by Brett Kuntz. All rights reserved.
+
+HeadShot       WAVE  sounds\1_headshot.wav
+DoubleKill     WAVE  sounds\2_doublekill.wav
+TripleKill     WAVE  sounds\3_triplekill.wav
+MultiKill      WAVE  sounds\4_multikill.wav
+MegaKill       WAVE  sounds\5_megakill.wav
+UltraKill      WAVE  sounds\6_ultrakill.wav
+LudicrousKill  WAVE  sounds\7_ludicrouskill.wav
+MonsterKill    WAVE  sounds\8_monsterkill.wav
+KillingSpree   WAVE  sounds\9_killingspree.wav
+Rampage        WAVE  sounds\10_rampage.wav
+Dominating     WAVE  sounds\11_dominating.wav
+Unstoppable    WAVE  sounds\12_unstoppable.wav
+WickedSick     WAVE  sounds\13_wickedsick.wav
+HolyShit       WAVE  sounds\14_holyshit.wav
+GodLike        WAVE  sounds\15_godlike.wav
